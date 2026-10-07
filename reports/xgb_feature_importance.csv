@@ -1,0 +1,14 @@
+Feature,Importance
+remainder__backlogs,0.20756118
+remainder__internships_count,0.1028897
+remainder__projects_count,0.09000907
+remainder__coding_skill_score,0.074330084
+remainder__cgpa,0.06585572
+remainder__communication_skill_score,0.065318376
+branch__branch_Mechanical,0.06426421
+branch__branch_ECE,0.0591054
+branch__branch_IT,0.058148496
+branch__branch_Civil,0.056908626
+branch__branch_EEE,0.054437175
+remainder__college_tier,0.051787604
+branch__branch_CSE,0.049384296
